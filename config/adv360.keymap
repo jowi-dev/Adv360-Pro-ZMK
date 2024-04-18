@@ -41,9 +41,9 @@
         default_layer {
             bindings = <
  &kp EQUAL   &kp NUMBER_1           &kp N2      &kp N3     &kp N4  &kp N5               &kp LESS_THAN                                                                       &kp GREATER_THAN  &kp N6  &kp N7    &kp N8          &kp N9  &kp N0  &kp MINUS
-   &kp TAB        &kp SQT        &kp COMMA  &kp PERIOD      &kp P   &kp Y            &kp LEFT_BRACKET                                                                      &kp RIGHT_BRACKET   &kp F   &kp G     &kp C           &kp R   &kp L   &kp FSLH
+   &kp TAB        &kp SQT        &kp COMMA  &kp PERIOD      &kp P   &kp Y            &kp LEFT_BRACKET                                                                      &kp RIGHT_BRACKET   &kp F   &kp G     &kp C           &kp R   &kp B   &kp FSLH
    &kp ESC          &kp A            &kp O       &kp E      &kp U   &kp I              &kp LEFT_BRACE  &kp LCTRL           &kp LALT                   &kp LGUI  &kp RCTRL    &kp RIGHT_BRACE   &kp D   &kp H     &kp T           &kp N   &kp S   &kp BSLH
- &kp LSHFT  &kp SEMICOLON            &kp Q       &kp J      &kp K   &kp X                                                 &kp GRAVE                  &kp COLON                                 &kp B   &kp M     &kp W           &kp V   &kp Z  &kp RSHFT
+ &kp LSHFT  &kp SEMICOLON            &kp Q       &kp J      &kp K   &kp X                                                 &kp GRAVE                  &kp COLON                                 &kp L   &kp M     &kp W           &kp V   &kp Z  &kp RSHFT
      &mo 2      &kp TILDE  &kp EXCLAMATION    &kp LEFT  &kp RIGHT                            &kp BSPC    &kp DEL  &kp DOUBLE_QUOTES                   &kp PLUS  &kp ENTER          &kp SPACE          &kp UP  &kp DOWN  &kp UNDERSCORE   &mo 3     &tog 1
             >;
         };
